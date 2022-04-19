@@ -4,5 +4,7 @@ This is a collection of [[https://www.informatik.tu-darmstadt.de/datamanagement/
 I am a PhD student at the the datamanagement group at TU Darmstadt.
 My research mainly focuses on how to leverage remote direct memory access (RDMA) and fast networks in distributed database systems.
 
+** Papers
 
-
+[[https://scholar.google.com/citations?user=qJ_bkjcAAAAJ&hl=de][Google Scholar]]
+[[https://dblp.uni-trier.de/pid/146/6632.html][DBLP]]
