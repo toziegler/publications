@@ -1,6 +1,6 @@
 * Publications
-[[https://www.gnu.org/software/emacs/][GNU Emacs]]
-This is a collection of ‘https://www.informatik.tu-darmstadt.de/datamanagement/datamanagement/dm_people/dm_people_detailseite_18944.en.jsp‘ [my] (Tobias Ziegler) publications.
+
+This is a collection of [[https://www.informatik.tu-darmstadt.de/datamanagement/datamanagement/dm_people/dm_people_detailseite_18944.en.jsp][my]] (Tobias Ziegler) publications.
 I am a PhD student at the the datamanagement group at TU Darmstadt.
 My research mainly focuses on how to leverage remote direct memory access (RDMA) and fast networks in distributed database systems.
 
